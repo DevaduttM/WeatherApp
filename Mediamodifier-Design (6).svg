@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="73f3f0df-0006-40ed-bd29-6275493e8b21"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="ebe51974-db25-466c-8736-8d8d59d96e89"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="6e06a1ea-290a-43ae-9b67-e2dd28dad08c"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-480, -576)" d="M 450 286 L 450 136 L 510 136 L 510 286 L 450 286 Z M 706 392 L 664 350 L 770 243 L 812 286 L 706 392 Z M 770 606 L 770 546 L 920 546 L 920 606 L 770 606 Z M 450 1016 L 450 866 L 510 866 L 510 1016 L 450 1016 Z M 253 391 L 148 286 L 190 244 L 296 350 L 253 391 Z M 771 908 L 664 802 L 705 761 L 813 865 L 771 908 Z M 40 606 L 40 546 L 190 546 L 190 606 L 40 606 Z M 191 908 L 148 866 L 253 761 L 275 781 L 297 802 L 191 908 Z M 480 816 Q 380 816 310 746 Q 240 676 240 576 Q 240 476 310 406 Q 380 336 480 336 Q 580 336 650 406 Q 720 476 720 576 Q 720 676 650 746 Q 580 816 480 816 Z M 480 756 Q 555 756 607.5 703.5 Q 660 651 660 576 Q 660 501 607.5 448.5 Q 555 396 480 396 Q 405 396 352.5 448.5 Q 300 501 300 576 Q 300 651 352.5 703.5 Q 405 756 480 756 Z M 480 576 Z" stroke-linecap="round" />
+</g>
+</svg>

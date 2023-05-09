@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="73f3f0df-0006-40ed-bd29-6275493e8b21"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="ebe51974-db25-466c-8736-8d8d59d96e89"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="fcf73eb1-de41-42c2-a410-8e44fdfed5db"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-480, -556)" d="M 465 896 Q 411 896 379.5 868 Q 348 840 348 783 L 416 783 Q 416 809 427.5 822.5 Q 439 836 465 836 Q 492 836 503.5 824 Q 515 812 515 783 Q 515 754 503.5 740.5 Q 492 727 465 727 L 80 727 L 80 667 L 465 667 Q 519 667 547 695 Q 575 723 575 783 Q 575 840 547 868 Q 519 896 465 896 Z M 80 488 L 80 428 L 628 428 Q 665 428 682 410.5 Q 699 393 699 352 Q 699 311 682 293.5 Q 665 276 628 276 Q 590 276 573 296.5 Q 556 317 556 348 L 496 348 Q 496 290 531 253 Q 566 216 628 216 Q 689 216 724 251.5 Q 759 287 759 352 Q 759 417 724 452.5 Q 689 488 628 488 L 80 488 Z M 752 818 L 752 758 Q 787 758 803.5 738.5 Q 820 719 820 682 Q 820 644 801.5 627 Q 783 610 748 610 L 80 610 L 80 550 L 748 550 Q 810 550 845 585 Q 880 620 880 682 Q 880 746 847 782 Q 814 818 752 818 Z" stroke-linecap="round" />
+</g>
+</svg>
